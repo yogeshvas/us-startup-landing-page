@@ -18,7 +18,7 @@ interface TeamMember {
 const page = () => {
   const defaultMembers: TeamMember[] = [
     {
-      name: "Vishal",
+      name: "Vishal Sir",
       role: "Founder & CEO",
       bio: "10+ years of experience in product development and team leadership. Passionate about building products that make a difference.",
       imageUrl:
@@ -32,7 +32,7 @@ const page = () => {
     },
     {
       name: "Yogesh Vashisth",
-      role: "Co-Founder",
+      role: "Handles Tech",
       bio: "Built solutions that helps companies to streamline their operations in South African Market .",
       imageUrl:
         "https://media.licdn.com/dms/image/v2/D5603AQG0HN80EBjg8g/profile-displayphoto-shrink_800_800/B56ZiP.gSrG0Ac-/0/1754762185140?e=1759968000&v=beta&t=1moF22CSXxN5wSFwdGPgv0YIDMHDf02ZAvSHJP2kA94",
